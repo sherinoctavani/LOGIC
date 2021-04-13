@@ -1,0 +1,2 @@
+# LOGIC-MC-Payment-FAT
+PART 1 - LOGIC TEST
