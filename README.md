@@ -1,4 +1,4 @@
-# LOGIC-MC-Payment-FAT
+# LOGIC
 PART 1 - LOGIC TEST
 
 Given an array of integers nums and an integer target, return indices of the two numbers
